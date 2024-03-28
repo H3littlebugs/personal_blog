@@ -1,2 +1,2 @@
 # personal_blog
-Un pequeño blog aobre Desarrollo Web 
+Un pequeño blog sobre Desarrollo Web 
